@@ -1,0 +1,4 @@
+[package]
+name = "rust-programming-language"
+version = "0.0.1"
+authors = ["Finley McIlwaine"]
